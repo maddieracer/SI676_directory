@@ -1,0 +1,6 @@
+---
+layout: post
+title: Mars
+author: Jesse Johnston
+---
+This page is about Mars, the red planet.
