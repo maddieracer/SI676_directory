@@ -1,7 +1,0 @@
----
-layout: page
-title: Planets List
-date: 2026-09-25
----
-
-This page provides information about the extensive planet list documented on this site!
